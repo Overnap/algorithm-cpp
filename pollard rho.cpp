@@ -1,6 +1,6 @@
 /**
  * boj 4149 Factoring Large Numbers
- * Factorize with Pollard's rho & Miller-rabin (for ull)
+ * Factorize with Pollard's rho & Miller-Rabin (for ull)
  */
 
 #include <iostream>
